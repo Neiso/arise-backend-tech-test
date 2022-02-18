@@ -45,7 +45,8 @@
     "link-module-alias": "^1.2.0",
     "pretty-hrtime": "^1.0.3",
     "tslog": "^3.3.1",
-    "yamljs": "^0.3.0"
+    "yamljs": "^0.3.0",
+    "yarn": "^1.22.17"
   },
   "_moduleAliases": {
     "src": "dist"
