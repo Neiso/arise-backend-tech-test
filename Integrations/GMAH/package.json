@@ -1,0 +1,18 @@
+{
+  "name": "gmah-adapter",
+  "version": "1.0.0",
+  "description": "Integrate the well known booking site GiveMeAnHotel.com to Arise Travel's graphql endpoint.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon -L index.js"
+  },
+  "keywords": [],
+  "author": "Djulian Ouatla djulian.ouatla@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3"
+  }
+}

@@ -21,4 +21,4 @@ services:
         soft: 98304
         hard: 98304
     command: >
-      sh -c "npm install -g nodemon && tail -f /dev/null"
+      sh -c "yarn install && npm install -g nodemon && node src/index.js"
